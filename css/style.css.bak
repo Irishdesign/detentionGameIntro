@@ -106,7 +106,10 @@ background-size: cover;
 }
 .aboutme-dark{
 background-color:rgba(0,0,0,0.4);
-width:100%;
+background-repeat:no-repeat;
+background-attachment: fixed;
+background-position: center;
+background-size: cover;
         
 }
 .bg-halfW{
